@@ -2,4 +2,4 @@
 
 Sample source code for c++
 
-1) sort
+1)Sort
