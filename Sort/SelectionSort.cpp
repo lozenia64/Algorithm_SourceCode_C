@@ -3,6 +3,7 @@
 // Algorithm source cod for c++
 
 void SelectionSort(int *arr, int begin, int end) {
+	//처음부터 쭉 반복
 	for (int i = begin; i < end; i++) {
 		int tmp = i;
 		for (int j = i + 1; j <= end; j++)
