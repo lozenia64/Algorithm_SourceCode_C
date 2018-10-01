@@ -7,7 +7,7 @@ void InsertionSort(int *arr, int begin, int end) {
 	for (int i = begin + 1; i <= end; i++) {
 		//i반째 원소를 v에 저장
 		int j, v = arr[i];
-		//i부터 앞으로 확인
+		//arr[j]를 자기보다 큰게 나올때 까지 앞으로 계속 보냄
 		for (j = i; j > begin && arr[j - 1] > v; j--)
 			arr[j] = arr[j - 1];
 		if (i != j) arr[j] = v;
