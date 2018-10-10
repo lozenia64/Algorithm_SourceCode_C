@@ -14,5 +14,5 @@ Sample source code for c++
 8) CountingSort
 9) RadixSort
 
-<img  width = "30%" height = "30%" src="https://github.com/lozenia64/Algorithm_SourceCode_C/blob/master/Sort/SortAlgorithmCompare.JPG" />
+<img  width = "80%" height = "80%" src="https://github.com/lozenia64/Algorithm_SourceCode_C/blob/master/Sort/SortAlgorithmCompare.JPG" />
 
