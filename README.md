@@ -3,7 +3,7 @@
 Sample source code for c++
 
 ---
-## Sort
+# Sort
 1) BubbleSort
 2) SelectionSort
 3) InsertionSort
@@ -14,5 +14,7 @@ Sample source code for c++
 8) CountingSort
 9) RadixSort
 
+---
+## Sort Compare
 <img  width = "80%" height = "80%" src="https://github.com/lozenia64/Algorithm_SourceCode_C/blob/master/Sort/SortAlgorithmCompare.JPG" />
 
