@@ -34,6 +34,7 @@ int main() {
         vector <LUCKY> v = { a,b,c };
 
 		//굳이 오퍼레이터를 따로 선언하지 않고 sort에 바로 넣을 수 있다. (LUCKY 구조체를 a 기준으로 정렬)
+		//[]() 형태는 c++의 람다 함수 형태이다.
         sort(v.begin(), v.end(), [&](LUCKY &p, LUCKY &q) {
             return p.a < q.a;
         });
