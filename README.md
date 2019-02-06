@@ -14,13 +14,15 @@ Sample source code for c++
 8) CountingSort
 9) RadixSort
 ---
-# C++
+## Sort Compare
+<img  width = "80%" height = "80%" src="https://github.com/lozenia64/Algorithm_SourceCode_C/blob/master/Sort/SortAlgorithmCompare.JPG" />
+---
+# C++ Tip
 1) Tip : max/min, lambda, auto ...
 2) array
 3) lambda
 4) tuple
 5) for_loop
 ---
-## Sort Compare
-<img  width = "80%" height = "80%" src="https://github.com/lozenia64/Algorithm_SourceCode_C/blob/master/Sort/SortAlgorithmCompare.JPG" />
-
+# C++ Code
+1) LCA
