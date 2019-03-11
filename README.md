@@ -25,6 +25,7 @@ Sample source code for c++
 3) lambda
 4) tuple
 5) for_loop
+6) Time measurement
 
 ---
 ## C++ Code
