@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// blog.naver.com/ljy9378
 // Algorithm source cod for c++
 
 void CountingSort(int *arr, int begin, int end) {
