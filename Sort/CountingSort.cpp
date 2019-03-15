@@ -1,6 +1,6 @@
 // lozenia64
 // blog.naver.com/ljy9378
-// Algorithm source cod for c++
+// Algorithm source code for c++
 
 void CountingSort(int *arr, int begin, int end) {
 	// 배열 count[], countSum[], SortedArray[] 선언

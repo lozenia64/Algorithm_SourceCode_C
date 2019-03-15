@@ -1,6 +1,6 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
-// Algorithm source cod for c++
+// blog.naver.com/ljy9378
+// Algorithm source code for c++
 
 void MergeArray(int *arr, int *copy, int start, int end) {
 	int mid = (start + end) / 2, i = start, j = mid + 1, k = start;

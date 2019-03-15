@@ -1,6 +1,6 @@
 // lozenia64
 // blog.naver.com/ljy9378
-// Algorithm source cod for c++
+// Algorithm source code for c++
 
 void BubbleSort(int *arr, int begin, int end) {
 	// i는 오른쪽 끝에서 하나씩 계속 줄어듬(최대값을 오른쪽 끝에두고 앞으로 고려하지 않음)

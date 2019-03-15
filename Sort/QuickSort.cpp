@@ -1,6 +1,6 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
-// Algorithm source cod for c++
+// blog.naver.com/ljy9378
+// Algorithm source code for c++
 
 void QuickSort(int *arr, int begin, int end) {
 	//맨앞의 원소를 피벗으로 사용

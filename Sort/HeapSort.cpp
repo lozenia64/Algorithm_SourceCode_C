@@ -1,6 +1,6 @@
 // lozenia64
 // blog.naver.com/ljy9378
-// Algorithm source cod for c++
+// Algorithm source code for c++
 
 void Heapify(int *arr, int index, int size) {
 	for (int ch = (index << 1) | 1; ch < size; index = ch, ch = ch << 1 | 1) {

@@ -1,6 +1,6 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
-// Algorithm source cod for c++
+// blog.naver.com/ljy9378
+// Algorithm source code for c++
 
 void RadixSort(int *arr, int begin, int end) {
 	for (int i = begin; i <= end; i++) arr[i] ^= INT_MIN;

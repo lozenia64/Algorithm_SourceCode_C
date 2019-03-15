@@ -1,3 +1,7 @@
+// lozenia64
+// blog.naver.com/ljy9378
+// Algorithm source code for c++
+
 //정렬
 sort(v.begin(), v.end());
 	

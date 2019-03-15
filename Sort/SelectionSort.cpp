@@ -1,6 +1,6 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
-// Algorithm source cod for c++
+// blog.naver.com/ljy9378
+// Algorithm source code for c++
 
 void SelectionSort(int *arr, int begin, int end) {
 	//처음부터 쭉 반복
