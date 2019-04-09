@@ -25,6 +25,7 @@ void firstPivotQuicksort(int *arr, int begin, int end) {
 		if (left < right) swap(arr[left], arr[right]);
 	}
 	swap(arr[begin], arr[right]);
+
 	firstPivotQuicksort(arr, begin, right - 1);
 	firstPivotQuicksort(arr, right + 1, end);
 }

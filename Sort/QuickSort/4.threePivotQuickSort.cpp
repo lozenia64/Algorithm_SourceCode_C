@@ -38,6 +38,7 @@ void firstPivotQuicksort(int *arr, int begin, int end) {
 		if (left < right) swap(arr[left], arr[right]);
 	}
 	swap(arr[begin], arr[right]);
+
 	firstPivotQuicksort(arr, begin, right - 1);
 	firstPivotQuicksort(arr, right + 1, end);
 }
@@ -53,6 +54,7 @@ void randomPivotQuicksort(int *arr, int begin, int end) {
 		if (left < right) swap(arr[left], arr[right]);
 	}
 	swap(arr[begin], arr[right]);
+
 	randomPivotQuicksort(arr, begin, right - 1);
 	randomPivotQuicksort(arr, right + 1, end);
 }
@@ -73,6 +75,7 @@ void threePivotQuicksort(int *arr, int begin, int end) {
 		if (left < right) swap(arr[left], arr[right]);
 	}
 	swap(arr[begin], arr[right]);
+	
 	threePivotQuicksort(arr, begin, right - 1);
 	threePivotQuicksort(arr, right + 1, end);
 }
